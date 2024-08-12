@@ -1,0 +1,1 @@
+RPS Showdown is a classic rock-paper-scissors game built using HTML, CSS, and JavaScript. Challenge the computer in this fun. The game features a simple yet sleek interface, responsive design, and instant feedback on each round. Perfect for a quick break or as a starting project to showcase your frontend development skills!
